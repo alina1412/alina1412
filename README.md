@@ -1,7 +1,15 @@
-### 😌 my humble python backend developer profile
-💻 My stack: [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,fastapi,django,flask,rabbitmq,git,linux)](https://skillicons.dev)
+### 😌 my humble Python Backend Developer profile
+ [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,fastapi,django,flask,rabbitmq,git,linux)](https://skillicons.dev)
 
-python 3.9+ (FastApi, Flask, Django), sqlalchemy, postgres, alembic, docker
+Python-разработчик, коммерческий опыт 2+ года.
 
+Специализируюсь на backend-разработке: проектирую REST API, использую ООП, работаю с базами данных и асинхронными решениями (asyncio), активно пишу тесты (pytest).
 
-(I used HTML, css, javascript, but it's not my main goal)
+Стек:
+- Python (2+ года), 
+- Веб: FastAPI, Aiohttp, Flask, Django, Django Admin,  Requests.
+- Базы данных: PostgreSQL, SQL, SQLAlchemy, Alembic (миграции), Redis (кэширование), MySQL.
+- Инструменты: Docker, Git, Linux, pytest, RabbitMQ.
+- Опыт документирования REST API с помощью OpenAPI/Swagger.
+- Английский язык (читаю документацию в оригинале).
+- Боты: telegram api, Aiogram, vk api.
