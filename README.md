@@ -1,5 +1,5 @@
 ### 😌 my humble Python Backend Developer profile
- [![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,fastapi,django,flask,rabbitmq,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,mysql,redis,docker,rabbitmq,linux,bash,git,github,gitlab)](https://skillicons.dev)
 
 Python-разработчик, коммерческий опыт 2+ года.
 
